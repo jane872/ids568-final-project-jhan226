@@ -1,0 +1,7 @@
+fastapi>=0.104
+uvicorn>=0.24
+prometheus-client>=0.19
+numpy>=1.24
+pandas>=2.1
+matplotlib>=3.8
+scipy>=1.11
